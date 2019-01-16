@@ -6,6 +6,7 @@
 .s3.amazonaws.com
 .google.com
 .googleapis.com
+.translate.googleapis.com
 .google-analytics.com
 .docker.com
 .apple.com
