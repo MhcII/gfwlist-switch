@@ -5,6 +5,7 @@
 .facebook.com
 .s3.amazonaws.com
 .google.com
+.content.googleapis.com
 .translate.googleapis.com
 .googleapis.com
 .google-analytics.com
