@@ -5,14 +5,12 @@
 .facebook.com
 .s3.amazonaws.com
 .google.com
-.content.googleapis.com
-.translate.googleapis.com
-.googleapis.com
+^.googleapis.com
 .google-analytics.com
 .googletagservices.com
 .docker.com
 .apple.com
-.dropbox.com
-.box.com
+^.dropbox.com
+^.box.com
 .cloudfront.net
 !-----------------EOF-----------------
