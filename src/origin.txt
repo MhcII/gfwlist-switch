@@ -1,18 +1,17 @@
-[SwitchyOmega Conditions]
-@with result
+[AutoProxy 0.2.9]
+! Title: MhcII-GFWList
 
-*.facebook.com +proxy
-*.s3.amazonaws.com +proxy
-*.google.com +proxy
-*.content.googleapis.com +proxy
-*.translate.googleapis.com +proxy
-*.googleapis.com +proxy
-*.google-analytics.com +proxy
-*.googletagservices.com +proxy
-*.docker.com +proxy
-*.apple.com +proxy
-*.dropbox.com +proxy
-*.box.com +proxy
-*.cloudfront.net +proxy
-
-* +direct
+!-----------------GFWList-----------------
+.facebook.com
+.s3.amazonaws.com
+.google.com
+.translate.googleapis.com
+.googleapis.com
+.google-analytics.com
+.googletagservices.com
+.docker.com
+.apple.com
+.dropbox.com
+.box.com
+.cloudfront.net
+!-----------------EOF-----------------
