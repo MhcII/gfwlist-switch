@@ -1,0 +1,11 @@
+[AutoProxy 0.2.9]
+! Title: MhcII-GFWList
+
+!-----------------GFWList-----------------
+.facebook.com
+.s3.amazonaws.com
+.googleapis.com
+.google-analytics.com
+.docker.com
+.apple.com
+!-----------------EOF-----------------
