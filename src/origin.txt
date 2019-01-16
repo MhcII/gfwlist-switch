@@ -4,6 +4,7 @@
 !-----------------GFWList-----------------
 .facebook.com
 .s3.amazonaws.com
+.google.com
 .googleapis.com
 .google-analytics.com
 .docker.com

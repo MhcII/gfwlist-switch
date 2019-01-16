@@ -1,0 +1,13 @@
+{
+  "name": "gfwlist-switch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MhcII <snail975@gmail.com>",
+  "scripts": {
+    "build": "node ./src/index.js",
+    "git:refresh": "git rm --cached -f -r && git add ."
+  },
+  "dependencies": {
+    "js-base64": "^2.5.0"
+  }
+}
